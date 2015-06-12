@@ -127,8 +127,6 @@ public class Bird extends MovableObject {
 		g2d.setColor(Color.yellow);
 		g2d.fillPolygon(xBeakPoints, yBeakPoints, 3);
 		
-		// TODO working on drawing of bird
-		
 		// draw whites of eyes
 		g2d.setColor(Color.white);
 		g2d.fillOval(  2, (int)(getSize()/4)-3, 8, 8);
