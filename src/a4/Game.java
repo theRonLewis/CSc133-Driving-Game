@@ -26,8 +26,6 @@ import javax.swing.border.*;
 //
 //		compile all commands into a single GameCommand class? reduce class complexity
 //
-//		Make things look prettier? Birds, Pylons are left to do
-//
 
 // have to suppress this when not adding a certain serial variable
 @SuppressWarnings("serial")
